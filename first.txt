@@ -2,3 +2,4 @@
 gitについて学びます。
 git add
 git commit
+gitの複数編集のを学ぶ
