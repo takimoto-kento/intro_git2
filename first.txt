@@ -1,2 +1,4 @@
 こんにちわ
 gitについて学びます。
+git add
+git commit
